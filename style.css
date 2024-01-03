@@ -78,12 +78,14 @@ body,
 }
 
 .snake{
-    border: #5a5a5a 1px dotted;
+    background-color: #235028;
+    border: #1e4623 1px dotted;
 }
 
 .food{
-    background-color: #dedede;
-    border: #999 5px solid;
+    background-color: #c82d2d;
+    border: #c82d2d 5px solid;
+    border-radius: 50%;
 }
 
 #logo{
